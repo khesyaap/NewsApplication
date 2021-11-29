@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021720148948",
+    "project_id": "newsappidnbs",
+    "storage_bucket": "newsappidnbs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021720148948:android:a415e03c7675c12c0cf441",
+        "android_client_info": {
+          "package_name": "com.khesya.idn.newsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021720148948-o09uhnvea9udgvpst1v7bujqodtva00v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTGPJedix6vhOAVWyoVmpzKKoezKPnKeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021720148948-o09uhnvea9udgvpst1v7bujqodtva00v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
